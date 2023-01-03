@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "*.ts": "typescriptreact",
+    "*.js": "javascript",
+    "regex": "cpp",
+    "span": "cpp",
+    "type_traits": "cpp",
+    "ostream": "cpp",
+    "tuple": "cpp",
+    "random": "cpp",
+    "queue": "cpp",
+    "*.tcc": "cpp",
+    "variant": "cpp"
+  }
+}
